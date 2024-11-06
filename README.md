@@ -35,6 +35,11 @@ source venv/bin/activate
 ```
 .\venv\Scripts\activate
 ```
+or
+```
+.\.venv\Scripts\activate
+```
+
 You should see the virtual environment's name in your terminal prompt indicating that it is now active.
 
 ### Step 4: Install Dependencies
@@ -76,8 +81,8 @@ This will start the application. You should see output in the terminal indicatin
 
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/1331cbdb-f3ed-46de-b781-7edc0ce112cc)
 
-![image](https://github.com/user-attachments/assets/85d21f92-3de4-4467-a8dd-07a5a84e74e4)
 
 - Enter your username and password for LinkedIn, as well as the profile URL you want to scrape, and let the magic happen!
 
