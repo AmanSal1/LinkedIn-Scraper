@@ -4,9 +4,11 @@
 
 To get started with this project, you'll need to create a virtual environment to manage dependencies. Follow the steps below to set up your environment.
 
-### Step 1: Install Python
+### Step 1: Install Python and Chrome Driver
 
 Ensure that Python 3.x is installed on your system. You can download it from the [official Python website](https://www.python.org/downloads/).
+
+Ensure that Chrome Driver is installed on  your system. You can download it from the https://googlechromelabs.github.io/chrome-for-testing/
 
 ### Step 2: Create a Virtual Environment
 
