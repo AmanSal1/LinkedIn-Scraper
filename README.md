@@ -87,6 +87,7 @@ This will start the application. You should see output in the terminal indicatin
 
 
 - Enter your username and password for LinkedIn, as well as the profile URL you want to scrape, and let the magic happen!
+- Example Profile Link Format : https://www.linkedin.com/in/aman-salwan/
 
 ## Resources
 
