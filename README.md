@@ -89,6 +89,17 @@ This will start the application. You should see output in the terminal indicatin
 - Enter your username and password for LinkedIn, as well as the profile URL you want to scrape, and let the magic happen!
 - Example Profile Link Format : https://www.linkedin.com/in/aman-salwan/
 
+
+## Using Docker  
+
+```
+docker pull amansal1/linkedin-scraper:v1
+```
+
+```
+docker run -e API_KEY=Your_API_Key -p 8000:8000 amansal1/linkedin-scraper:v1
+```
+
 ## Resources
 
 - ChatGPT
