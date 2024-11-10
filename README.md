@@ -60,7 +60,7 @@ In order to securely store your API key for the Gemini API, you'll need to creat
 - Add your Gemini API key to the .env file in the following format:
 
 ```
-API_KEY=your_gemini_api_key_here
+API_KEY='your_gemini_api_key_here'
 ```
 
 Replace ```your_gemini_api_key_here``` with your actual Gemini API key.
